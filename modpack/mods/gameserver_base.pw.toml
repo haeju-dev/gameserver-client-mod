@@ -1,0 +1,8 @@
+name = "게임 서버 기본"
+filename = "gameserver_base-d29662bfaa19.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/haeju-dev/gameserver-client-mod/main/modpack/jars/gameserver_base-d29662bfaa19.jar"
+hash-format = "sha256"
+hash = "d29662bfaa1993bff4250209c4562116e9d49b6647c8bbb411b22c7729e7d37b"

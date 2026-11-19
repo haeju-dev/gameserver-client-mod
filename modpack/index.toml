@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "7c258846d69d70699d01ece8be13df4bfa70da6da9059eb1c653ade05b3ed7dd"
+metafile = true
+
+[[files]]
+file = "mods/gameserver_base.pw.toml"
+hash = "b5d076aea5e3e21d6e827656952654321c2be9c5c287d807bddca22381c2a9c4"
+metafile = true
+
+[[files]]
+file = "mods/gameserver_devices.pw.toml"
+hash = "d382a4727bd2ff6d992d567fca62b6c8b106fa868360ca4bf22c96d67fc3974c"
+metafile = true
+
+[[files]]
+file = "mods/gameserver_guns.pw.toml"
+hash = "47ea9c33cacd4d1c7b2cf1cc5776976576db423f5424695b60fcf8a6b2ed0087"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "a2703d49cd323aba314424b5060842f397b1d3952f1d2973f6326af3ec737ff3"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "22b59eb76f971db70e4b36d084215051e6ec71af2c42eeeb8a62bdcc0c446c6e"
+metafile = true
