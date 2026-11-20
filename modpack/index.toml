@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/gameserver_base.pw.toml"
-hash = "b5d076aea5e3e21d6e827656952654321c2be9c5c287d807bddca22381c2a9c4"
+hash = "04acb05924133940a40e2e552da77a0cb56f13b7db3982445e02f4b5e8e18b17"
 metafile = true
 
 [[files]]
@@ -18,11 +18,6 @@ metafile = true
 [[files]]
 file = "mods/gameserver_guns.pw.toml"
 hash = "47ea9c33cacd4d1c7b2cf1cc5776976576db423f5424695b60fcf8a6b2ed0087"
-metafile = true
-
-[[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "a2703d49cd323aba314424b5060842f397b1d3952f1d2973f6326af3ec737ff3"
 metafile = true
 
 [[files]]
