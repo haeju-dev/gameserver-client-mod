@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/gameserver_base.pw.toml"
-hash = "04acb05924133940a40e2e552da77a0cb56f13b7db3982445e02f4b5e8e18b17"
+hash = "a7c32e71810e90e823777d8eb82b7e141826bac64194111b5ccf9c7d4e4359ac"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/gameserver_guns.pw.toml"
-hash = "47ea9c33cacd4d1c7b2cf1cc5776976576db423f5424695b60fcf8a6b2ed0087"
+hash = "d887589bc9931e765ca65a3f6be2226234bd0dbcac2788238885edb269b73bd6"
 metafile = true
 
 [[files]]
