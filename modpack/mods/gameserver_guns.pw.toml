@@ -1,8 +1,8 @@
 name = "게임 서버 총"
-filename = "gameserver_guns-8ff14959c3be.jar"
+filename = "gameserver_guns-6e26609a4f6a.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/haeju-dev/gameserver-client-mod/main/modpack/jars/gameserver_guns-8ff14959c3be.jar"
+url = "https://raw.githubusercontent.com/haeju-dev/gameserver-client-mod/main/modpack/jars/gameserver_guns-6e26609a4f6a.jar"
 hash-format = "sha256"
-hash = "8ff14959c3be64827a2094f5ea43d05998f944fa57af4846a0b51fcc17fe8396"
+hash = "6e26609a4f6a89e55b19021e73058f5f3241c4db5e546c3700184bbd0a9f0ac9"

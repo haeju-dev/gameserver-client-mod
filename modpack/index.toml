@@ -1,26 +1,35 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fml.toml"
+hash = "4d6bee8a02ad9ee7e5fa463eb56441aff62689ec76a38b8c2fb261b777045b07"
+
+[[files]]
+file = "config/inventorysorter.json"
+hash = "a3759821d9499043eb2c09e1aab5cf4410161b1bb9988cdd3bfae7c007b5c567"
+preserve = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7c258846d69d70699d01ece8be13df4bfa70da6da9059eb1c653ade05b3ed7dd"
+hash = "3f3e528701cf893977b383ab7a2c4a9d9bb5c244be0c85b0af53b70a5f47f8b0"
 metafile = true
 
 [[files]]
 file = "mods/gameserver_base.pw.toml"
-hash = "2d32d1e35ec64ed62fcc74a952276e6de7e806dbd42926e8aa0a50d7781c1bcd"
+hash = "7ff35857c3653eebab9387320abe158a1573094b90bc7bd7d9b0254779f560c6"
 metafile = true
 
 [[files]]
 file = "mods/gameserver_devices.pw.toml"
-hash = "d382a4727bd2ff6d992d567fca62b6c8b106fa868360ca4bf22c96d67fc3974c"
+hash = "d14bdea8db092cb3a1dc85adeeed0f21f5627bbf905977cf09f73c9055a626c5"
 metafile = true
 
 [[files]]
 file = "mods/gameserver_guns.pw.toml"
-hash = "d887589bc9931e765ca65a3f6be2226234bd0dbcac2788238885edb269b73bd6"
+hash = "07847a65e2352250a7e9a02a0e88034b108fdbea2b8244a91c9d5e90fa05b221"
 metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "22b59eb76f971db70e4b36d084215051e6ec71af2c42eeeb8a62bdcc0c446c6e"
+hash = "eb02cfc3e0992b64cebf74dc2bfb3e129ccb4440c03980f31a1c400955f682bb"
 metafile = true

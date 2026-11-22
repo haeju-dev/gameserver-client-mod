@@ -1,13 +1,13 @@
 name = "gameserver"
 author = "gameserver"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "397a9a83a0753caf3c90050f5ab1b7817920b79608cf3abd2f98d7fcea644552"
+hash = "771dbf609848a38d85620ba73a56d06b21ba6e4a5419a00628e469b3e34a6a68"
 
 [versions]
-minecraft = "26.1.2"
-neoforge = "26.1.2.127"
+minecraft = "26.3"
+neoforge = "26.3.0.115"
