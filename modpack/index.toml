@@ -16,12 +16,12 @@ metafile = true
 
 [[files]]
 file = "mods/gameserver_base.pw.toml"
-hash = "e4ea876d0973dcabb446e2be93eb83623bb89fd0960cfa98074e5f304289b179"
+hash = "608b0a74044abc4b2d58b774cb59936af084a3f99d41c365f3a5045eff67cad4"
 metafile = true
 
 [[files]]
 file = "mods/gameserver_devices.pw.toml"
-hash = "d14bdea8db092cb3a1dc85adeeed0f21f5627bbf905977cf09f73c9055a626c5"
+hash = "918d5f3ef9ed136605bb957e22a9631d50e7d19c011e2c34869ef02523972766"
 metafile = true
 
 [[files]]
