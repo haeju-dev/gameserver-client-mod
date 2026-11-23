@@ -2,6 +2,15 @@
 
 서버가 NeoForge로 바뀌면 모든 접속자가 모드팩을 깔아야 합니다. 설정은 처음 한 번만 합니다. 그 뒤에는 게임을 켤 때마다 새 버전을 자동으로 받습니다.
 
+## 쉬운 방법
+
+설치 파일로 하면 아래 1~3을 하지 않아도 됩니다.
+
+- Windows: 설치 파일 하나를 받아 두 번 누릅니다. Prism Launcher 설치와 `gameserver` 인스턴스 만들기를 함께 합니다.
+- macOS: Prism Launcher를 깐 뒤 "인스턴스 추가"(Add Instance) → "불러오기"(Import)에 인스턴스 zip 주소를 붙여 넣습니다.
+
+순서는 공개 저장소 첫 화면(https://github.com/haeju-dev/gameserver-client-mod)의 "게임 서버에 들어가기"에 있습니다. 아래는 설치 파일을 쓰지 않고 직접 하는 방법입니다. 설치 파일이 만드는 인스턴스도 아래 1~3과 같은 설정입니다.
+
 ## 필요한 것
 
 - Prism Launcher. https://prismlauncher.org/download/ 에서 받습니다. 무료입니다.
