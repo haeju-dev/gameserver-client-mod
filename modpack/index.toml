@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/gameserver_base.pw.toml"
-hash = "608b0a74044abc4b2d58b774cb59936af084a3f99d41c365f3a5045eff67cad4"
+hash = "3e4db3f657697de8ef9e573b058b7c1ec8864060f97d761ce5286667313d3b08"
 metafile = true
 
 [[files]]
