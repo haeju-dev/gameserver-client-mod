@@ -1,8 +1,8 @@
 name = "게임 서버 장치"
-filename = "gameserver_devices-239354d563a8.jar"
+filename = "gameserver_devices-844fd52cadcd.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/haeju-dev/gameserver-client-mod/main/modpack/jars/gameserver_devices-239354d563a8.jar"
+url = "https://raw.githubusercontent.com/haeju-dev/gameserver-client-mod/main/modpack/jars/gameserver_devices-844fd52cadcd.jar"
 hash-format = "sha256"
-hash = "239354d563a889028692a052052cc4b8d5ed9e64e0fe7d1bb9c6f4151ada143c"
+hash = "844fd52cadcdf03575374e84631585bffacf609fe72d93ca1043c0b120706cfe"

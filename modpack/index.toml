@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/gameserver_devices.pw.toml"
-hash = "918d5f3ef9ed136605bb957e22a9631d50e7d19c011e2c34869ef02523972766"
+hash = "62932aa64e118f734a990a3285edd04c8f63ad44f69ea97c5f7a16acf7f7bf8c"
 metafile = true
 
 [[files]]
